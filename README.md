@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RPL-AER: Adaptive Energy-Responsive RPL Protocol
 
 ## Description
@@ -357,3 +358,7 @@ Pour toute question ou suggestion :
 - Metrics are extracted and summarized in `cooja_results/metrics_summary.txt`
 - The project compiles and runs on Contiki-NG/Cooja without manual intervention
 - The structure is ready for GitHub/IEEE IoT submission
+=======
+# RPL-AER
+This repository provides the implementation and evaluation scripts for the RPL-AER protocol—an energy-aware, secure, and predictive routing solution for low-power IoT networks in precision agriculture. It includes data visualization scripts, deployment figures, and performance comparison metrics between RPL-AER and standard RPL.
+>>>>>>> 731ae3bab15ffd96ab6611f04097a37bce5a297d
